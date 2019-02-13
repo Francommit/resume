@@ -13,8 +13,7 @@ sidebar:
 
     # Sidebar links
     email: francommit@gmail.com
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: chris-franco
     github: francommit
    
 
@@ -23,7 +22,7 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
       - item: Snowboarding
