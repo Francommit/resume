@@ -1,13 +1,6 @@
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
-
-# Orbit
-> This theme is designed by  [3rd Wave Media](http://themes.3rdwavemedia.com/). 
-> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
-
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
-
+# Resume
+I figured it was about time to expirement with Github pages.
+A live-resume is a perfect candidate for what I'm after.
 
 ## Credits
 

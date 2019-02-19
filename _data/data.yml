@@ -28,7 +28,7 @@ sidebar:
       - item: Snowboarding
         link:
 
-      - item: Cooking
+      - item: Tinkering
         link:
 
 career-profile:
@@ -46,34 +46,31 @@ education:
     - degree: Bachelor of Information Technology
       university: Swinburne University
       time: 2011 - 2014
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: DevOps Engineer
       time: 2018 - Present
       company: ANZ Bank , Melbourne
       details: |
-          - Bullet point
-          - Bullet point
-
+          - Re-created the build stack in Windows Containers.
+          - Configuring and deployment of Puppet across our stack.
+          - Innovating our CI and CD processes.
+    
+    - role: DevOps Engineer
+      time: 2016 - 2017
+      company: eNett International, Melbourne
+      details: |
+          - Migration of Jenkins JobDSL on-prem to Pipelines in Azure.
+          - Continual improvement of the CI/CD Pipeline.
+          - Creation and stewardship of focus group experimenting with innovative technologies.
+          
     - role: QA Engineer
       time: 2015 - 2017
       company: eNett International, Melbourne
       details: |
-          - Migration of Jenkins JobDSL on-prem to Pipelines in Azure.
           - Implementation of UI automation framework using Selenium and C# .NET.
           - Integration of Selenium into Jenkins using Selenium Grid.
-          - Manual, regression, performance, functional and black box testing the core VANS solution.
           - Development and enhancement of the API test runner using C# and MVC.
-          - Creation and stewardship of focus group experimenting with innovative technologies.
     
     - role: Consultant
       time: 2015
@@ -86,37 +83,34 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Occassionally, I'll create something in my own time that turns out to be more popular that I thought. I enjoy working on projects that improve my coding abilities while providing me with a real world result.
 
     assignments:
-      - title: Velocity
+      - title: win10_emulation_station
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+        tagline: "An auto-installer to set up Emulation Station correctly on a 64-bit version of Windows 10."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Docker
         level: 85%
+      
+      - name: Powershell
+        level: 80%
+        
+      - name: Puppet
+        level: 75%
 
-      - name: Sketch & Photoshop
+      - name: Python
+        level: 70%
+
+      - name: Ruby
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Groovy
+        level: 65%
+        
+      - name: C#
+        level: 50%
