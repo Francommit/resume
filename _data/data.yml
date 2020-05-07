@@ -39,6 +39,9 @@ career-profile:
       Project teams are often abundantly full of manual build and deployment processes, which I am more than happy to automate. Using cutting edge technologies makes the automation process even more fun and drives me to do what I do best.
 
 education:
+    - degree: AWS Certified Cloud Practitioner
+      university: AWS
+      time: 2020
     - degree: Bachelor of Information Technology
       university: Swinburne University
       time: 2011 - 2014
