@@ -35,7 +35,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Regardless of my job title, my favorite part of being in the fintech industry is being able to work alongside teams of people who enjoy working on creative solutions. DevOps fits me well as I enjoy automating everything and anything.
+      Regardless of my job title, my favorite part of being in the fintech industry is being able to work alongside teams of people who enjoy automating creative solutions. DevOps fits me well as I enjoy automating everything and anything.
       
       Project teams are often abundantly full of manual build and deployment processes, which I am more than happy to automate. Using cutting edge technologies makes the automation process even more fun and drives me to do what I do best.
 
@@ -84,7 +84,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Occassionally, I'll create something in my own time that turns out to be more popular that I thought. I enjoy working on projects that improve my coding abilities while providing me with a real world result.
+      Occassionally, I'll create something in my own time that turns out to be more popular than I thought. I enjoy working on projects that improve my coding abilities while providing me with a real world result.
 
     assignments:
       - title: win10_emulation_station
