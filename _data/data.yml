@@ -3,6 +3,7 @@
 #
 
 sidebar:
+    position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -13,9 +14,20 @@ sidebar:
 
     # Sidebar links
     email: francommit@gmail.com
+    phone:
+    timezone: # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship:
+    website: https://francommit.github.io # Include the full website URL, including "http://" or "https://".
     linkedin: chris-franco
+    xing:
     github: francommit
-    website: francommit.com
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    bluesky: # Specify your full Bluesky handle
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
    
 
     languages:
