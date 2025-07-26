@@ -113,17 +113,17 @@ skills:
       - name: Powershell
         level: 80%
         
+      - name: Terraform
+        level: 85%
+        
       - name: Puppet
-        level: 75%
+        level: 80%
 
       - name: Python
         level: 70%
 
       - name: Ruby
         level: 60%
-
-      - name: Groovy
-        level: 65%
         
       - name: C#
         level: 50%
